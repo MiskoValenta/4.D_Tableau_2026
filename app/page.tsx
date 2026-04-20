@@ -1,65 +1,62 @@
-import Image from "next/image";
+import React from 'react';
+import Sidebar from '../components/Sidebar/Sidebar';
+import StudentCard from '../components/StudentCard/StudentCard';
+import styles from './Tableau.module.css';
 
-export default function Home() {
+const MOCK_STUDENTS = [
+  { id: '1', name: 'Tobiáš Barteska', nickname: 'binary_boy', imageUrl: "/StudentPoltraits/1.pgn" },
+  { id: '2', name: 'Jakub Bittner', nickname: 'syntax_error', imageUrl: "/StudentPoltraits/3.pgn" },
+  { id: '3', name: 'Matěj Bortlík', nickname: 'null_ptr', imageUrl: "/StudentPoltraits/2.pgn" },
+  { id: '4', name: 'Marián Demel', nickname: 'css_wizard', imageUrl: "/StudentPoltraits/6.pgn" },
+  { id: '5', name: 'Alexander Dimitriu', nickname: 'kernel_panic', imageUrl: '/StudentPoltraits/4.pgn' },
+  { id: '6', name: 'Lukáš Dzida', nickname: 'sudo_su', imageUrl: "/StudentPoltraits/5.pgn" },
+  { id: '7', name: 'Daniel Hladík', nickname: 'binary_boy', imageUrl: "/StudentPoltraits/1.pgn" },
+  { id: '8', name: 'Lukáš Chalupa', nickname: 'syntax_error', imageUrl: "/StudentPoltraits/3.pgn" },
+  { id: '9', name: 'Matěj Janeček', nickname: 'null_ptr', imageUrl: "/StudentPoltraits/2.pgn" },
+  { id: '10', name: 'Štěpán Kiedroň', nickname: 'css_wizard', imageUrl: "/StudentPoltraits/6.pgn" },
+  { id: '11', name: 'Artem Kozynets', nickname: 'kernel_panic', imageUrl: '/StudentPoltraits/4.pgn' },
+  { id: '12', name: 'Lukáš Krajíček', nickname: 'sudo_su', imageUrl: "/StudentPoltraits/5.pgn" },
+  { id: '13', name: 'Lukáš Král', nickname: 'binary_boy', imageUrl: "/StudentPoltraits/1.pgn" },
+  { id: '14', name: 'Matěj Kupka', nickname: 'syntax_error', imageUrl: "/StudentPoltraits/3.pgn" },
+  { id: '15', name: 'Adam Macháč', nickname: 'null_ptr', imageUrl: "/StudentPoltraits/2.pgn" },
+  { id: '16', name: 'Danilo Mattei', nickname: 'css_wizard', imageUrl: "/StudentPoltraits/6.pgn" },
+  { id: '17', name: 'Jakub Moravec', nickname: 'kernel_panic', imageUrl: '/StudentPoltraits/4.pgn' },
+  { id: '18', name: 'Adam Moša', nickname: 'sudo_su', imageUrl: "/StudentPoltraits/5.pgn" },
+  { id: '19', name: 'Lukáš Plepla', nickname: 'binary_boy', imageUrl: "/StudentPoltraits/1.pgn" },
+  { id: '20', name: 'Vojtěch Rašťák', nickname: 'syntax_error', imageUrl: "/StudentPoltraits/3.pgn" },
+  { id: '21', name: 'Alex', nickname: 'null_ptr', imageUrl: "/StudentPoltraits/2.pgn" },
+  { id: '22', name: 'Vojtěch Šilhánek', nickname: 'css_wizard', imageUrl: "/StudentPoltraits/6.pgn" },
+  { id: '23', name: 'Adam Šrek', nickname: 'kernel_panic', imageUrl: '/StudentPoltraits/4.pgn' },
+  { id: '24', name: 'Michael Valenta', nickname: 'sudo_su', imageUrl: "/StudentPoltraits/5.pgn" },
+  { id: '25', name: 'Jakub Večerka', nickname: 'binary_boy', imageUrl: "/StudentPoltraits/1.pgn" },
+  { id: '26', name: 'Adam Vehovský', nickname: 'syntax_error', imageUrl: "/StudentPoltraits/3.pgn" },
+  { id: '27', name: 'Michal Vystrk', nickname: 'null_ptr', imageUrl: "/StudentPoltraits/2.pgn" },
+  { id: '28', name: 'Oskar Wollný', nickname: 'css_wizard', imageUrl: "/StudentPoltraits/6.pgn" },
+  { id: '29', name: 'Tereza Žáčková', nickname: 'kernel_panic', imageUrl: '/StudentPoltraits/4.pgn' },
+];
+
+export default function TableauPage() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
+    <main className={styles.mainContainer}>
+      <div className={styles.contentWrapper}>
+        <header className={styles.pageHeader}>
+          <h1 className={styles.title}>System.<span className={styles.accent}>Maturanti</span></h1>
+          <p className={styles.subtitle}>// Initialize class_of_2026</p>
+        </header>
+
+        <section className={styles.gridContainer}>
+          {MOCK_STUDENTS.map((student, index) => (
+            <StudentCard
+              key={student.id}
+              id={student.id}
+              name={student.name}
+              nickname={student.nickname}
+              imageUrl={student.imageUrl}
+              index={index}
             />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+          ))}
+        </section>
+      </div>
+    </main>
   );
 }

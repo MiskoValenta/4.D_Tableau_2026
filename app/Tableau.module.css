@@ -1,0 +1,66 @@
+.mainContainer {
+    min-height: 100vh;
+    display: flex;
+}
+
+.contentWrapper {
+    margin-left: 80px;
+
+    width: calc(100% - 80px);
+    padding: 4rem 6rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.pageHeader {
+    margin-bottom: 4rem;
+}
+
+.title {
+    font-family: 'Inter', sans-serif;
+    color: #ffffff;
+    font-size: 3rem;
+    font-weight: 800;
+    margin: 0 0 8px 0;
+    letter-spacing: -1px;
+}
+
+.accent {
+    color: #00f0ff;
+    text-shadow: 0 0 20px rgba(0, 240, 255, 0.4);
+}
+
+.subtitle {
+    font-family: 'Fira Code', 'JetBrains Mono', monospace;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1.1rem;
+    margin: 0;
+}
+
+.gridContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 4rem 3rem;
+    width: 100%;
+    max-width: 1600px;
+}
+
+@media (max-width: 1024px) {
+    .contentWrapper {
+        padding: 3rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .contentWrapper {
+        margin-left: 0;
+        margin-bottom: 80px;
+        padding: 2rem;
+        width: 100%;
+    }
+
+    .gridContainer {
+        grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+        gap: 2rem;
+    }
+}

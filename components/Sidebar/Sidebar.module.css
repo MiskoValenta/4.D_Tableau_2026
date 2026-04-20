@@ -1,0 +1,105 @@
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 80px;
+    height: 100vh;
+    background: rgba(10, 10, 15, 0.4);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border-right: 1px solid rgba(255, 255, 255, 0.05);
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 0;
+    z-index: 100;
+    overflow: hidden;
+    transition: width 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.sidebar:hover {
+    width: 240px;
+    background: rgba(15, 15, 25, 0.9);
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    padding: 0 28px;
+    margin-bottom: 4rem;
+    height: 32px;
+    white-space: nowrap;
+}
+
+.classNum {
+    font-family: var(--font-inter), sans-serif;
+    color: #fff;
+    font-weight: 800;
+    font-size: 1.2rem;
+}
+
+.yearText {
+    font-family: var(--font-fira-code), monospace;
+    color: #00f0ff;
+    margin-left: 12px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.sidebar:hover .yearText {
+    opacity: 1;
+}
+
+.navIcons {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.iconLink {
+    text-decoration: none;
+    padding: 0 28px;
+    height: 54px;
+    display: flex;
+    align-items: center;
+}
+
+.linkContent {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+    color: rgba(255, 255, 255, 0.5);
+    flex-shrink: 0;
+    transition: all 0.3s ease;
+}
+
+.labelText {
+    font-family: var(--font-fira-code), monospace;
+    color: #fff;
+    margin-left: 20px;
+    opacity: 0;
+    white-space: nowrap;
+    transform: translateX(-10px);
+    transition: all 0.3s ease;
+}
+
+.sidebar:hover .labelText {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+/* Hover efekty pro neonový vzhled */
+.iconLink:hover .icon {
+    color: #00f0ff;
+    filter: drop-shadow(0 0 8px rgba(0, 240, 255, 0.8));
+    transform: scale(1.1);
+}
+
+.iconLink:hover .labelText {
+    color: #00f0ff;
+    text-shadow: 0 0 10px rgba(0, 240, 255, 0.5);
+}

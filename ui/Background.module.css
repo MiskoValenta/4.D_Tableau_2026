@@ -1,0 +1,192 @@
+.orbLayer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -2;
+    overflow: hidden;
+    pointer-events: none;
+    background-color: var(--bg-deep-space);
+}
+
+.orb {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(140px);
+    opacity: 0.4;
+    mix-blend-mode: screen;
+}
+
+.orbPurple {
+    width: 60vw;
+    height: 60vw;
+    top: -20%;
+    left: -10%;
+    background-color: var(--accent-deep-purple);
+    animation: drift 25s infinite alternate ease-in-out;
+}
+
+.orbBlue {
+    width: 50vw;
+    height: 50vw;
+    bottom: -10%;
+    right: -10%;
+    background-color: var(--accent-neon-blue);
+    animation: drift 30s infinite alternate-reverse ease-in-out;
+}
+
+.orbEmerald {
+    width: 40vw;
+    height: 40vw;
+    top: 40%;
+    left: 40%;
+    background-color: var(--accent-emerald);
+    opacity: 0.25;
+    animation: drift 35s infinite alternate ease-in-out;
+}
+
+@keyframes drift {
+    0% {
+        transform: translate(0, 0) scale(1);
+    }
+
+    100% {
+        transform: translate(10%, 10%) scale(1.1);
+    }
+}
+
+.symbolLayer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+    pointer-events: none;
+    overflow: hidden;
+}
+
+.symbol {
+    position: absolute;
+    font-family: var(--font-fira-code), monospace;
+    color: rgba(255, 255, 255, 0.15);
+    font-weight: bold;
+    animation: float 15s infinite ease-in-out;
+}
+
+.sym1,
+.sym7 {
+    text-shadow: 0 0 10px rgba(0, 240, 255, 0.3);
+    color: rgba(0, 240, 255, 0.15);
+}
+
+.sym3,
+.sym8 {
+    text-shadow: 0 0 10px rgba(0, 255, 102, 0.2);
+    color: rgba(0, 255, 102, 0.15);
+}
+
+.sym2,
+.sym9 {
+    text-shadow: 0 0 10px rgba(94, 23, 235, 0.3);
+    color: rgba(94, 23, 235, 0.15);
+}
+
+svg.symbol {
+    width: 2rem;
+    height: 2rem;
+    filter: drop-shadow(0 0 8px rgba(255, 255, 255, 0.1));
+}
+
+.sym1 {
+    top: 15%;
+    left: 12%;
+    font-size: 2rem;
+    animation-delay: 0s;
+}
+
+.sym2 {
+    top: 65%;
+    left: 8%;
+    font-size: 3rem;
+    animation-delay: -2s;
+    animation-duration: 18s;
+}
+
+.sym3 {
+    top: 25%;
+    right: 15%;
+    font-size: 2.5rem;
+    animation-delay: -5s;
+    animation-duration: 20s;
+}
+
+.sym4 {
+    top: 80%;
+    right: 20%;
+    font-size: 1.8rem;
+    animation-delay: -1s;
+}
+
+.sym5 {
+    top: 40%;
+    left: 25%;
+    width: 3rem;
+    height: 3rem;
+    animation-delay: -7s;
+}
+
+.sym6 {
+    top: 10%;
+    right: 35%;
+    width: 2.5rem;
+    height: 2.5rem;
+    animation-delay: -3s;
+}
+
+.sym7 {
+    top: 85%;
+    left: 35%;
+    font-size: 2.2rem;
+    animation-delay: -8s;
+    animation-duration: 22s;
+}
+
+.sym8 {
+    top: 50%;
+    right: 8%;
+    font-size: 1.5rem;
+    animation-delay: -4s;
+}
+
+.sym9 {
+    top: 30%;
+    left: 60%;
+    font-size: 2rem;
+    animation-delay: -6s;
+}
+
+.sym10 {
+    top: 70%;
+    right: 40%;
+    width: 4rem;
+    height: 4rem;
+    animation-delay: -9s;
+    animation-duration: 25s;
+}
+
+
+@keyframes float {
+    0% {
+        transform: translateY(0px) rotate(0deg);
+    }
+
+    50% {
+        transform: translateY(-20px) rotate(5deg);
+    }
+
+    100% {
+        transform: translateY(0px) rotate(0deg);
+    }
+}
