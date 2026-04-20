@@ -1,0 +1,2003 @@
+[
+    {
+        "id": "1",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "2",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "3",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "4",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "5",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "6",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "7",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "8",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "9",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "10",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "11",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "12",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "13",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "14",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "15",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "16",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "17",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "18",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "19",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "20",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "21",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "22",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "23",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "24",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "25",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "26",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "27",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "28",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    },
+    {
+        "id": "29",
+        "name": "Michael Valenta",
+        "nickname": "binary_boy",
+        "imageUrl": "/portraits/michael.jpg",
+        "quote": "Kód je poezie, kterou nikdo nechce číst.",
+        "interests": [
+            "Cybersecurity",
+            "Gym",
+            "UI/UX"
+        ],
+        "subjects": {
+            "best": "Informatika",
+            "worst": "Dějepis"
+        },
+        "insideJoke": "Error 404: Spánek nenalezen.",
+        "role": "Mozeček třídy",
+        "skills": [
+            {
+                "name": "Programování",
+                "level": 95
+            },
+            {
+                "name": "Docházka",
+                "level": 40
+            },
+            {
+                "name": "Komunikace",
+                "level": 75
+            },
+            {
+                "name": "Oblíbenost",
+                "level": 90
+            },
+            {
+                "name": "Huzz",
+                "level": 85
+            },
+            {
+                "name": "Atletika",
+                "level": 60
+            }
+        ],
+        "randomFacts": [
+            "Pije 5 káv denně.",
+            "Umí programovat v COBOLu (bohužel).",
+            "Jednou hacknul školní Wi-Fi, aby si mohl stáhnout hru."
+        ],
+        "quotesFromOthers": [
+            "Vždycky ví, co dělá... nebo se tak aspoň tváří.",
+            "Když mu nejde kód, začne mluvit latinsky.",
+            "Legenda říká, že nikdy nemrká."
+        ],
+        "timeline": [
+            {
+                "year": "2023",
+                "event": "Vyhrál školní hackathon ve spánku."
+            },
+            {
+                "year": "2024",
+                "event": "Omylem smazal produkční databázi."
+            },
+            {
+                "year": "2025",
+                "event": "Stal se neoficiálním IT supportem pro celou sborovnu."
+            }
+        ],
+        "character": "Final Boss před maturitou"
+    }
+]

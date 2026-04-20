@@ -1,35 +1,57 @@
+.cardLink {
+    text-decoration: none;
+    display: block;
+}
+
 .cardWrapper {
     perspective: 1000px;
     transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     cursor: pointer;
+    transform: rotate(0deg);
 }
 
-.rotM5 {
+.tilt1 {
+    transform: rotate(-4.5deg);
+}
+
+.tilt2 {
+    transform: rotate(3.2deg);
+}
+
+.tilt3 {
+    transform: rotate(-1.8deg);
+}
+
+.tilt4 {
+    transform: rotate(4.9deg);
+}
+
+.tilt5 {
+    transform: rotate(-3.5deg);
+}
+
+.tilt6 {
+    transform: rotate(2.4deg);
+}
+
+.tilt7 {
     transform: rotate(-5deg);
 }
 
-.rotM3 {
-    transform: rotate(-3deg);
+.tilt8 {
+    transform: rotate(1.2deg);
 }
 
-.rotM1 {
-    transform: rotate(-1deg);
+.tilt9 {
+    transform: rotate(-2.9deg);
 }
 
-.rot1 {
-    transform: rotate(1deg);
+.tilt10 {
+    transform: rotate(3.8deg);
 }
 
-.rot3 {
-    transform: rotate(3deg);
-}
-
-.rot5 {
-    transform: rotate(5deg);
-}
-
-.cardWrapper:hover {
-    transform: rotate(0deg) scale(1.05) translateY(-10px);
+.cardLink:hover .cardWrapper {
+    transform: rotate(0deg) scale(1.05) translateY(-10px) !important;
     z-index: 10;
 }
 
@@ -47,7 +69,7 @@
     transition: all 0.4s ease;
 }
 
-.cardWrapper:hover .card {
+.cardLink:hover .card {
     border-color: rgba(0, 240, 255, 0.4);
     box-shadow: 0 15px 40px rgba(0, 0, 0, 0.7), 0 0 30px rgba(0, 240, 255, 0.15);
 }
@@ -67,7 +89,7 @@
     transition: filter 0.4s ease;
 }
 
-.cardWrapper:hover .image {
+.cardLink:hover .image {
     filter: grayscale(0%) contrast(100%);
 }
 
@@ -79,7 +101,7 @@
 }
 
 .name {
-    font-family: 'Inter', sans-serif;
+    font-family: var(--font-inter), sans-serif;
     color: #ffffff;
     font-size: 1.25rem;
     font-weight: 600;
@@ -89,7 +111,7 @@
 }
 
 .nickname {
-    font-family: 'Fira Code', 'JetBrains Mono', monospace;
+    font-family: var(--font-fira-code), monospace;
     color: #00f0ff;
     font-size: 0.85rem;
     margin: 0;

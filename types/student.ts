@@ -3,5 +3,4 @@ export interface StudentCardProps {
     name: string;
     nickname: string;
     imageUrl: string;
-    index: number;
 }

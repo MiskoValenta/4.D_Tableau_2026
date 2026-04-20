@@ -4,6 +4,8 @@ import styles from './Contact.module.css';
 import { fetchMessages } from '../../backend/actions';
 import ContactForm from './ContactForm';
 
+export const dynamic = 'force-dynamic';
+
 export default async function ContactPage() {
     const dbMessages = await fetchMessages();
 
@@ -50,7 +52,7 @@ export default async function ContactPage() {
                         })}
 
                         {dbMessages.length === 0 && (
-                            <p className={styles.subtitle} style={{ textAlign: 'center' }}>// Žádné zprávy v databázi.</p>
+                            <p className={styles.subtitle} style={{ textAlign: 'center' }}>// Zatím žádné záznamy v databázi.</p>
                         )}
                     </div>
                 </section>
