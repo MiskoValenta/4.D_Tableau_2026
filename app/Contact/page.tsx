@@ -4,22 +4,29 @@ import styles from './Contact.module.css';
 import { fetchMessages } from '../../backend/actions';
 import ContactForm from './ContactForm';
 
+interface Message {
+    id: string;
+    firstName: string;
+    lastName: string;
+    email: string;
+    message: string;
+    createdAt: string;
+}
+
 export const dynamic = 'force-dynamic';
 
 export default async function ContactPage() {
-    const dbMessages = await fetchMessages();
+    const dbMessages: Message[] = await fetchMessages();
 
     return (
         <main className={styles.mainContainer}>
             <Sidebar />
-
             <div className={styles.contentWrapper}>
                 <section className={styles.upperSection}>
                     <header className={styles.pageHeader}>
                         <h1 className={styles.title}>System.<span className={styles.accent}>Zprávy</span></h1>
                         <p className={styles.subtitle}>// open_comms_channel</p>
                     </header>
-
                     <div className={styles.formContainer}>
                         <ContactForm />
                     </div>
@@ -27,19 +34,14 @@ export default async function ContactPage() {
 
                 <section className={styles.lowerSection}>
                     <h2 className={styles.historyTitle}>Message History</h2>
-
                     <div className={styles.messageList}>
-                        {dbMessages.map((msg) => {
+                        {dbMessages.map((msg: Message) => {
                             const initials = `${msg.firstName.charAt(0)}${msg.lastName.charAt(0)}`.toUpperCase();
-
                             return (
                                 <article key={msg.id} className={styles.messageCard}>
                                     <div className={styles.avatarWrapper}>
-                                        <div className={styles.avatar}>
-                                            {initials}
-                                        </div>
+                                        <div className={styles.avatar}>{initials}</div>
                                     </div>
-
                                     <div className={styles.messageContent}>
                                         <div className={styles.messageHeader}>
                                             <h3 className={styles.authorName}>{msg.firstName} {msg.lastName}</h3>
@@ -50,13 +52,11 @@ export default async function ContactPage() {
                                 </article>
                             );
                         })}
-
                         {dbMessages.length === 0 && (
-                            <p className={styles.subtitle} style={{ textAlign: 'center' }}>// Zatím žádné záznamy v databázi.</p>
+                            <p className={styles.subtitle} style={{ textAlign: 'center' }}>// Zatím žádné záznamy.</p>
                         )}
                     </div>
                 </section>
-
             </div>
         </main>
     );
