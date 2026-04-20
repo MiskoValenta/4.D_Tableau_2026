@@ -240,6 +240,22 @@
     opacity: 0.9;
 }
 
+.successText {
+    text-align: center;
+    margin-top: 1rem;
+    color: #00ff66;
+    font-family: var(--font-fira-code), monospace;
+    animation: fadeIn 0.5s ease-out;
+}
+
+.errorText {
+    text-align: center;
+    margin-top: 1rem;
+    color: #ff3333;
+    font-family: var(--font-fira-code), monospace;
+    animation: fadeIn 0.5s ease-out;
+}
+
 @media (max-width: 768px) {
     .contentWrapper {
         margin-left: 0;

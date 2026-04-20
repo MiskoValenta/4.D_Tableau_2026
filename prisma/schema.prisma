@@ -1,0 +1,24 @@
+datasource db {
+  provider = "postgresql"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Message {
+  id        String   @id @default(uuid())
+  firstName String
+  lastName  String
+  email     String
+  message   String
+  createdAt DateTime @default(now())
+}
+
+model Donor {
+  id        String   @id @default(uuid())
+  name      String
+  amount    Int
+  initials  String
+  createdAt DateTime @default(now())
+}
